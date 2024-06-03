@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishaJeganathan
 - 👀 I’m interested in Sketching
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: I don't like sweets
 
 <!---
