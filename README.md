@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishaJeganathan
 - 👀 I’m interested in Sketching
-- 🌱 I’m currently learning Kotlin
+- 🌱 After exploring Kotlin, Backend frameworks like node.js I finally found React interesting and i'm learning react to implement intuitive and cool ui for my projects.
 - ⚡ Fun fact: I don't like sweets
 
 <!---
